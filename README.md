@@ -48,3 +48,16 @@ Medical professionals can:
 
 ##### 3.7 Download Prescription Reports:
 - Provide functionality to download prescription reports in a CSV format
+
+
+
+steps to run the project:
+1. run xampp apache server and mysql service
+2. pull the code in local system
+3. import medical_pres.sql file into MySQL DB (for importing database and required tables with data)
+4. run the prelogin/login.php file in browser
+5. login with below user credentials
+  username: admim
+  password: admin123
+6. after successful login, click any of the link in navbar
+
